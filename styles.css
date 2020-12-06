@@ -2,6 +2,7 @@ body {
     background-color: yellowgreen;
     text-align: left;
     font-family: sans-serif;
+    margin-left: 10% ;
 }
 .portfolio-img {
     width: 50px;
@@ -12,6 +13,10 @@ body {
     font-family: Franklin Gothic Medium;
 }
 .title {
+    text-transform: uppercase;
+    font-weight: bold;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-decoration: underline;
+    color: yellow;
 }
