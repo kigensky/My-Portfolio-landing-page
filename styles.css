@@ -1,5 +1,17 @@
 body {
     background-color: yellowgreen;
     text-align: left;
-    
+    font-family: sans-serif;
+}
+.portfolio-img {
+    width: 50px;
+    float: right;
+}
+.name {
+    color: white;
+    font-family: Franklin Gothic Medium;
+}
+.title {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
