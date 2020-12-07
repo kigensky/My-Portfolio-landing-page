@@ -1,5 +1,5 @@
 body {
-    background-color: yellowgreen;
+    background-color: rgb(133, 155, 11);
     text-align: left;
     font-family: sans-serif;
     margin-left: 10% ;
@@ -18,10 +18,9 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     text-decoration: underline;
-    color: yellow;
 }
 li {
     margin-top: 20px;
     margin-bottom: 20px;
-    color: white;
+    color: rgb(247, 245, 242);
 }
