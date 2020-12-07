@@ -13,7 +13,7 @@
 #code .
 
 #link to live site on GitHub Pages
-https://github.com/kigensky/My-Portfolio-landing-page
+https://github.io/kigensky/My-Portfolio-landing-page
 
 
 #copyright and license information
